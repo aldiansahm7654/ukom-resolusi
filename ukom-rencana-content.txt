@@ -1,0 +1,8 @@
+RENCANA KONTEN UKOM
+
+- Javascript
+  * ES6
+  * Framwork Javascript
+- PHP frameworks
+- Interview
+- Vlogs
