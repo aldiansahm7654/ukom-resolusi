@@ -1,0 +1,6 @@
+RENCANA KONTEN UKOM
+
+- Javascript
+- PHP frameworks
+- Interview
+- Vlogs
