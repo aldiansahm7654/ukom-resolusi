@@ -3,6 +3,7 @@ RENCANA KONTEN UKOM
 - Javascript
   * ES6
   * Framwork Javascript
+- Struktur Data dasar
 - PHP frameworks
 - Interview
 - Vlogs
