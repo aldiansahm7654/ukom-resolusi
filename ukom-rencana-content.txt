@@ -5,6 +5,7 @@ RENCANA KONTEN UKOM
   * Framwork Javascript
    - Vue
    - react
+   - angular
 - Struktur Data dasar
 - PHP frameworks
   -LARAVEL
